@@ -1,0 +1,118 @@
+{
+  "navItems": [
+    { "name": "Home", "path": "#home", "icon": "Home" },
+    { "name": "Academic", "path": "#academic", "icon": "BookOpen" },
+    { "name": "Experience", "path": "#experience", "icon": "Briefcase" },
+    { "name": "Tech Mastery", "path": "#tech-mastery", "icon": "Code2" },
+    { "name": "Projects", "path": "#projects", "icon": "Folder" },
+    { "name": "Contact", "path": "#contact", "icon": "Mail" }
+  ],
+  "stages": [
+    {
+      "title": "WordPress Template Integration",
+      "year": "2022",
+      "icon": "Code",
+      "description": "Customized and deployed WordPress themes for local businesses, learning PHP and plugin integration.",
+      "skills": ["WordPress", "PHP", "CSS"]
+    },
+    {
+      "title": "WebGIS with LeafletJS",
+      "year": "2023",
+      "icon": "MapPin",
+      "description": "Built an interactive map visualizing JSON data with filterable layers and custom markers.",
+      "skills": ["LeafletJS", "GeoJSON", "JavaScript"]
+    },
+    {
+      "title": "CraftConnect",
+      "year": "2023",
+      "icon": "Trophy",
+      "description": "Team-built e-commerce platform connecting traditional crafters with clients. My role: Full-stack developer.",
+      "skills": ["MERN", "JWT Auth", "Socket.io"],
+      "hackathon": true
+    },
+    {
+      "title": "MERN E-Commerce Store",
+      "year": "2024",
+      "icon": "ShoppingCart",
+      "description": "Full-stack men's clothing store with payment gateway and admin dashboard.",
+      "skills": ["React", "Node.js", "MongoDB", "Stripe"]
+    }
+  ],
+  "categories": [
+    {
+      "title": "Frontend",
+      "icon": "Code",
+      "skills": ["Next.js", "React", "TypeScript"]
+    },
+    {
+      "title": "Backend",
+      "icon": "Server",
+      "skills": ["Node.js", "NestJS", "GraphQL", "REST API", "Express"]
+    },
+    {
+      "title": "Database & ORMs",
+      "icon": "Database",
+      "skills": ["PostgreSQL", "MongoDB", "Prisma", "TypeORM"]
+    },
+    {
+      "title": "DevOps & Tools",
+      "icon": "Cloud",
+      "skills": ["Docker", "Vercel", "Git", "AWS (S3, EC2, RDS)"]
+    },
+    {
+      "title": "CMS",
+      "icon": "FileText",
+      "skills": ["Sanity", "WordPress"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "CraftConnect",
+      "description": "E-commerce platform connecting traditional crafters with clients (Hackathon project)",
+      "icon": "Globe",
+      "technologies": ["Next.js", "Node.js", "MongoDB", "Socket.io"],
+      "role": "Full-stack Developer"
+    },
+    {
+      "title": "MERN E-Commerce",
+      "description": "Full-stack men's clothing store with payment processing",
+      "icon": "ShoppingCart",
+      "technologies": ["React", "Express", "MongoDB", "Stripe"],
+      "role": "Solo Developer"
+    },
+    {
+      "title": "WebGIS Application",
+      "description": "Interactive map visualizing geospatial data from JSON APIs",
+      "icon": "MapPin",
+      "technologies": ["LeafletJS", "GeoJSON", "JavaScript"],
+      "role": "Frontend Developer"
+    },
+    {
+      "title": "WordPress Integration",
+      "description": "Custom theme development for local businesses",
+      "icon": "MapPin",
+      "technologies": ["WordPress", "PHP", "CSS"],
+      "role": "Web Developer"
+    }
+  ],
+  "contactMethods": [
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "value": "hamdabousnina@gmail.com",
+      "href": "mailto:hamdabousnina@gmail.com"
+    },
+    {
+      "icon": "Linkedin",
+      "title": "LinkedIn",
+      "value": "linkedin.com/in/BousninaHamda",
+      "href": "https://www.linkedin.com/in/hamda-bousnina-4904a8262/"
+    },
+    {
+      "icon": "Github",
+      "title": "GitHub",
+      "value": "github.com/BousninaHamda",
+      "href": "https://github.com/BousninaHamda"
+    }
+  ]
+}
