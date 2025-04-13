@@ -1,4 +1,5 @@
 {
+  
   "navItems": [
     { "name": "Home", "path": "#home", "icon": "Home" },
     { "name": "Academic", "path": "#academic", "icon": "BookOpen" },
